@@ -128,7 +128,7 @@
         <div class="product-content">
             <h1>nike</h1>
             <p>
- nike en rosa  chinelas 
+ nike en rosa 
             </p>
             <a href="https://wa.me/50586574008?text=Hola,%20estoy%20interesado%20en%20el%20producto%20'Nombre%20del%20nikeen rosa chinelas '" class="whatsapp-button" target="_blank">
                 Contactar por WhatsApp
