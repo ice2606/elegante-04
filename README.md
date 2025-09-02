@@ -6,7 +6,7 @@
     <title>Fondo de Imagen</title>
     <style>
         body {
-            background-image: url('nike-vomero-18-mens-dusty-cactus-2-6807b8dfcbe1f.avif');
+            background-image: url('Crocs-CS-Hero-Banner-1920.avif');
             background-size: cover; /* Ajusta la imagen para que cubra todo el fondo */
             background-position: center; /* Centra la imagen */
             background-repeat: no-repeat; /* Evita que la imagen se repita */
