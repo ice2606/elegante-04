@@ -128,9 +128,9 @@
         <div class="product-content">
             <h1>nike</h1>
             <p>
-                nike rojo con negro edicion especial 
+ nike en rosa  chinelas 
             </p>
-            <a href="https://wa.me/50586574008?text=Hola,%20estoy%20interesado%20en%20el%20producto%20'Nombre%20del%20nike rojo con negro '" class="whatsapp-button" target="_blank">
+            <a href="https://wa.me/50586574008?text=Hola,%20estoy%20interesado%20en%20el%20producto%20'Nombre%20del%20nikeen rosa chinelas '" class="whatsapp-button" target="_blank">
                 Contactar por WhatsApp
             </a>
         </div>
@@ -138,123 +138,101 @@
  <div class="product-card">
         <img src="02.jpg" alt="Imagen del producto" class="product-image">
         <div class="product-content">
-            <h1>adidas</h1>
+            <h1>nike</h1>
             <p>
-                adidas samba 
+                nike en blanco con etiqueta roja  
             </p>
-            <a href="https://wa.me/50586574008?text=Hola,%20estoy%20interesado%20en%20el%20producto%20'Nombre%20del%20adidas samba'" class="whatsapp-button" target="_blank">
+            <a href="https://wa.me/50586574008?text=Hola,%20estoy%20interesado%20en%20el%20producto%20'Nombre%20del%20 nike con blanca con etiqueta roja '" class="whatsapp-button" target="_blank">
                 Contactar por WhatsApp
             </a>
         </div>
 <div class="product-card">
         <img src="03.jpg" alt="Imagen del producto" class="product-image">
         <div class="product-content">
-            <h1>nike jordan </h1>
+            <h1> adidas </h1>
             <p>
-nike jordan en blanco 
+adidas en blanco  
             </p>
-            <a href="https://wa.me/50586574008?text=Hola,%20estoy%20interesado%20en%20el%20producto%20'Nombre%20del%20nike jordan en blanco '" class="whatsapp-button" target="_blank">
+            <a href="https://wa.me/50586574008?text=Hola,%20estoy%20interesado%20en%20el%20producto%20'Nombre%20del%20adidas en blanco'" class="whatsapp-button" target="_blank">
                 Contactar por WhatsApp
             </a>
         </div>
 <div class="product-card">
         <img src="04.jpg" alt="Imagen del producto" class="product-image">
         <div class="product-content">
-            <h1>adidas  </h1>
+            <h1>filas  </h1>
             <p>
-adidas clasicos
+filas en rosa apagado 
             </p>
-            <a href="https://wa.me/50586574008?text=Hola,%20estoy%20interesado%20en%20el%20producto%20'Nombre%20del%20adidas '" class="whatsapp-button" target="_blank">
+            <a href="https://wa.me/50586574008?text=Hola,%20estoy%20interesado%20en%20el%20producto%20'Nombre%20del%20filas en rosa apagado  '" class="whatsapp-button" target="_blank">
                 Contactar por WhatsApp
             </a>
         </div>
 <div class="product-card">
         <img src="05.jpg" alt="Imagen del producto" class="product-image">
         <div class="product-content">
-            <h1>jordan retro   </h1>
+            <h1>gucci </h1>
             <p>
-jordan blaco con diseño retro 
+gucci clasicas diseño  
             </p>
-            <a href="https://wa.me/50586574008?text=Hola,%20estoy%20interesado%20en%20el%20producto%20'Nombre%20del%20jordan retro  '" class="whatsapp-button" target="_blank">
+            <a href="https://wa.me/50586574008?text=Hola,%20estoy%20interesado%20en%20el%20producto%20'Nombre%20del%20guccis '" class="whatsapp-button" target="_blank">
                 Contactar por WhatsApp
             </a>
         </div>
     <div class="product-card">
         <img src="06.jpg" alt="Imagen del producto" class="product-image">
         <div class="product-content">
-            <h1>jordan    </h1>
+            <h1>palm angel     </h1>
             <p>
-jordan blaco con suela celeste 
+palm engel en blaco con diseño
             </p>
-            <a href="https://wa.me/50586574008?text=Hola,%20estoy%20interesado%20en%20el%20producto%20'Nombre%20del%20jordan suela celeste '" class="whatsapp-button" target="_blank">
+            <a href="https://wa.me/50586574008?text=Hola,%20estoy%20interesado%20en%20el%20producto%20'Nombre%20del%20palm engel '" class="whatsapp-button" target="_blank">
                 Contactar por WhatsApp
             </a>
         </div>
             <div class="product-card">
         <img src="07.jpg" alt="Imagen del producto" class="product-image">
         <div class="product-content">
-            <h1> nike sport   </h1>
+            <h1> off white   </h1>
             <p>
-nike estilo botin clasico sport 
+off white diseño camuflado 
             </p>
-            <a href="https://wa.me/50586574008?text=Hola,%20estoy%20interesado%20en%20el%20producto%20'Nombre%20del%20nike estilo botin clasico sport  '" class="whatsapp-button" target="_blank">
+            <a href="https://wa.me/50586574008?text=Hola,%20estoy%20interesado%20en%20el%20producto%20'Nombre%20del%20 off white diseño camuflado '" class="whatsapp-button" target="_blank">
                 Contactar por WhatsApp
             </a>
         </div>
         <div class="product-card">
         <img src="08.jpg" alt="Imagen del producto" class="product-image">
         <div class="product-content">
-            <h1> nike sport   </h1>
+            <h1> crocs  </h1>
             <p>
-nike estilo sport color negro  negro
+crocs en azul oscuro 
             </p>
-            <a href="https://wa.me/50586574008?text=Hola,%20estoy%20interesado%20en%20el%20producto%20'Nombre%20del%20nike estilo sport color negro   '" class="whatsapp-button" target="_blank">
+            <a href="https://wa.me/50586574008?text=Hola,%20estoy%20interesado%20en%20el%20producto%20'Nombre%20del%20crocs en azul oscuro  '" class="whatsapp-button" target="_blank">
                 Contactar por WhatsApp
             </a>
         </div>
            <div class="product-card">
         <img src="09.jpg" alt="Imagen del producto" class="product-image">
         <div class="product-content">
-            <h1> nike panda  </h1>
+            <h1> nike  </h1>
             <p>
-nike estilo panda
+nike estilo blanco con negro 
             </p>
-            <a href="https://wa.me/50586574008?text=Hola,%20estoy%20interesado%20en%20el%20producto%20'Nombre%20del%20nike estilo panda  '" class="whatsapp-button" target="_blank">
+            <a href="https://wa.me/50586574008?text=Hola,%20estoy%20interesado%20en%20el%20producto%20'Nombre%20del%20nike estilo blanco con negro '" class="whatsapp-button" target="_blank">
                 Contactar por WhatsApp
             </a>
         </div>
            <div class="product-card">
         <img src="10.jpg" alt="Imagen del producto" class="product-image">
         <div class="product-content">
-            <h1> nike  </h1>
+            <h1> chinela   </h1>
             <p>
-nike color blanco 
+chinela azul con diseño 
             </p>
-            <a href="https://wa.me/50586574008?text=Hola,%20estoy%20interesado%20en%20el%20producto%20'Nombre%20del%20nike color blanco  '" class="whatsapp-button" target="_blank">
+            <a href="https://wa.me/50586574008?text=Hola,%20estoy%20interesado%20en%20el%20producto%20'Nombre%20del%20chinela azul con diseño  '" class="whatsapp-button" target="_blank">
                 Contactar por WhatsApp
             </a>
-        < <div class="product-card">
-        <img src="11.jpg" alt="Imagen del producto" class="product-image">
-        <div class="product-content">
-            <h1> nike   </h1>
-            <p>
-nike color blanco estilo botin 
-            </p>
-            <a href="https://wa.me/50586574008?text=Hola,%20estoy%20interesado%20en%20el%20producto%20'Nombre%20del%20nike color blanco estilo botin '" class="whatsapp-button" target="_blank">
-                Contactar por WhatsApp
-            </a>
-        </div>  
- <div class="product-card">
-        <img src="12.jpg" alt="Imagen del producto" class="product-image">
-        <div class="product-content">
-            <h1> nike   </h1>
-            <p>
-nike con diseño tornasol morado 
-            </p>
-            <a href="https://wa.me/50586574008?text=Hola,%20estoy%20interesado%20en%20el%20producto%20'Nombre%20del%20nike con diseño tornasol  '" class="whatsapp-button" target="_blank">
-                Contactar por WhatsApp
-            </a>
-        </div>        
     </div>
     <a href="https://ice2606.github.io/elegante-02/" class="back-button">
         Ir atrás
